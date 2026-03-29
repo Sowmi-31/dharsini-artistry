@@ -49,12 +49,12 @@ body {
 
 .gold-text {
   background: linear-gradient(
-    90deg, 
-    var(--rose-gold), 
-    var(--gold), 
-    var(--champagne), 
-    var(--gold), 
-    var(--rose-gold)
+    90deg,
+    #B8860B,
+    #D4AF37,
+    #F0D060,
+    #D4AF37,
+    #B8860B
   );
   background-size: 200% auto;
   -webkit-background-clip: text;
